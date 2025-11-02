@@ -98,6 +98,14 @@ else:
   <img src="pictures/report_pic_4.png" alt="Report Picture 4" width="45%">
 </p>
 
+## ✨ Project Contributors  
+
+👨‍💻 **Library Creator:** Aditya Vasudev K  
+🌐 **Website Creators:** Ananya Vinay, Anusriya Sreedhar, and Shreya Mahajan  
+🔬 **Research:** Sai Satya Pranav  
+
+---
+
 ## 📜 License
 
 [MIT](https://choosealicense.com/licenses/mit/)
