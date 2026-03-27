@@ -24,7 +24,7 @@ Built with **clarity**, **reproducibility**, and **rigor** in mind, PyAIStatus t
 ## 📦 Installation
 
 1.Clone the Repo to local system  
-2.Type the following commands to run the library:  
+2.Type the following commands to run the library: 
  -pip install -e .  
  -python scripts/evaluate_model.py "./models/model_name.h5" "./data/dataset_name/train" "./evaluation_results" 
 
